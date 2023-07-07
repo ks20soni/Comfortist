@@ -1,4 +1,4 @@
-# Your Blog Project
+# COMFORTIST
 
 This is a web application that allows users to create and manage a collection of blogs. It provides features such as adding new blogs, viewing the blog collection, and an about us page to provide information about the blog team. The project uses Node.js, Express, MongoDB, and npm as the package manager.
 
